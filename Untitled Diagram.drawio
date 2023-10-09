@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-08T17:32:18.942Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="kboWw4INTh_LO6_M4pcD" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-09T09:31:12.388Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="siR_hXzE1tQChwI7O-Qu" version="21.8.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="808" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,10 +19,10 @@
         <mxCell id="eqcukf8smh5cDQ7Ww91G-6" value="+ setTag(Tag *):void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="eqcukf8smh5cDQ7Ww91G-0">
           <mxGeometry y="94" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="eqcukf8smh5cDQ7Ww91G-7" value="+ getAtributeByName(string):string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="eqcukf8smh5cDQ7Ww91G-0">
+        <mxCell id="eqcukf8smh5cDQ7Ww91G-7" value="+ getAtribute(string):string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="eqcukf8smh5cDQ7Ww91G-0">
           <mxGeometry y="120" width="270" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="eqcukf8smh5cDQ7Ww91G-9" value="+ getTagByAtributeName(string):string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="eqcukf8smh5cDQ7Ww91G-0">
+        <mxCell id="eqcukf8smh5cDQ7Ww91G-9" value="+ getTagByID(string):string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="eqcukf8smh5cDQ7Ww91G-0">
           <mxGeometry y="144" width="270" height="24" as="geometry" />
         </mxCell>
         <mxCell id="eqcukf8smh5cDQ7Ww91G-8" value="+ setAtribut(string Name,string Value): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="eqcukf8smh5cDQ7Ww91G-0">
